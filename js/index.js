@@ -11,7 +11,7 @@
         "Innovation can only exist if one is willing to accept new ideas",
         "Never has the finite universe seemed so infinite",
         "Life is but a series of one-liners arranged to sound bearable",
-        "You can't take credits for your quotes unless your net worth is over $1M],
+        "You can't take credits for your quotes unless your net worth is over $1M"],
       backDelay: 4500
       loop: true,
       contentType: 'html' // or 'text'
