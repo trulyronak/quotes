@@ -4,8 +4,15 @@
 // actual code
   document.addEventListener('DOMContentLoaded', function() {
     Typed.new("#quote", {
-      strings: ["There is no limit to what we can do but our imagination", "If you can't take criticism, don't publicize your opinions", "The only true victor is one who realizes that there is no game", "Innovation can only exist if one is willing to accept new ideas", "Never has the finite universe seemed so infinite"],
-      backDelay: 4500,
+      strings: [
+        "There is no limit to what we can do but our imagination", 
+        "If you can't take criticism, don't publicize your opinions",
+        "The only true victor is one who realizes that there is no game",
+        "Innovation can only exist if one is willing to accept new ideas",
+        "Never has the finite universe seemed so infinite",
+        "Life is but a series of one-liners arranged to sound bearable",
+        "You can't take credits for your quotes unless your net worth is over $1M],
+      backDelay: 4500
       loop: true,
       contentType: 'html' // or 'text'
     });
